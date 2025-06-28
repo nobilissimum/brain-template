@@ -1,0 +1,29 @@
+{
+  "default_view": 2,
+  "font_size": 14,
+  "selected_table_layout": "dn-tbl-row",
+  "date_format": "YYYY-MM-DD HH:mm",
+  "files_per_page": 20,
+  "num_recent_files": 5,
+  "excluded_ext": "",
+  "excluded_path": "",
+  "color_notes": "#bf48ff",
+  "color_images": "#26a69a",
+  "color_canvas": "#6965db",
+  "color_videos": "#ff9800",
+  "color_audios": "#ef5350",
+  "color_pdf": "#ef5350",
+  "color_other": "#828282",
+  "colored_files": true,
+  "hide_ext": true,
+  "hide_path": false,
+  "hide_size": true,
+  "hide_date": false,
+  "hide_tags": false,
+  "hide_frontmatter": false,
+  "hide_columns": [
+    "size",
+    "ext"
+  ],
+  "saved_searches": []
+}

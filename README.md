@@ -2,6 +2,7 @@
 Boilerplate for Obsidian Notes - configured basic settings and community plugin settings.
 
 Community plugins:
+- [Dashboard navigator](https://github.com/drbap/dashboard-navigator-for-obsidian)
 - [Emoji Toolbar](https://github.com/oliveryh/obsidian-emoji-toolbar)
 - [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin)
 - [Icon Shortcodes](https://github.com/aidenlx/obsidian-icon-shortcodes)
