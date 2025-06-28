@@ -21,10 +21,14 @@
             "id": "f28e309162e42705",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
@@ -175,8 +179,10 @@
   },
   "active": "f28e309162e42705",
   "lastOpenFiles": [
-    "_assets/README.md",
+    "README.md~",
+    "4913",
     "README.md",
+    "_assets/README.md",
     "Welcome.md",
     "_assets"
   ]

@@ -3,5 +3,6 @@
   "showLineNumber": true,
   "foldHeading": false,
   "foldIndent": false,
-  "useTab": false
+  "useTab": false,
+  "spellcheck": false
 }
