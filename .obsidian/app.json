@@ -1,1 +1,7 @@
-{}
+{
+  "promptDelete": false,
+  "showLineNumber": true,
+  "foldHeading": false,
+  "foldIndent": false,
+  "useTab": false
+}

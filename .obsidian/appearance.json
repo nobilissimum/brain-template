@@ -1,1 +1,8 @@
-{}
+{
+  "accentColor": "",
+  "cssTheme": "Minimal Edge",
+  "baseFontSizeAction": false,
+  "enabledCssSnippets": [
+    "Minimal Edge Fix"
+  ]
+}

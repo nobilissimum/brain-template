@@ -1,0 +1,95 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": "md$",
+        "icon": "FabMarkdown",
+        "for": "everything",
+        "order": 0,
+        "color": "#42a5f5"
+      },
+      {
+        "rule": "png$|jpg$|jpeg$|webp$",
+        "icon": "FasImage",
+        "for": "everything",
+        "order": 1,
+        "color": "#26a69a"
+      },
+      {
+        "rule": "svg$",
+        "icon": "LiFlower",
+        "for": "everything",
+        "order": 2,
+        "color": "#ffb300"
+      },
+      {
+        "rule": "csv$|xls$|xlsx$",
+        "icon": "LiTable2",
+        "for": "everything",
+        "order": 3,
+        "color": "#8bc34a"
+      },
+      {
+        "rule": "mp3$",
+        "icon": "FasMusic",
+        "for": "everything",
+        "order": 4,
+        "color": "#ef5350"
+      },
+      {
+        "rule": "mp4$",
+        "icon": "FasFilm",
+        "for": "everything",
+        "order": 5,
+        "color": "#ff9800"
+      },
+      {
+        "rule": "pdf$",
+        "icon": "FasFilePdf",
+        "for": "everything",
+        "order": 6,
+        "color": "#ef5350"
+      },
+      {
+        "rule": "_attachments|_assets",
+        "icon": "FasImages",
+        "for": "folders",
+        "order": 7,
+        "color": "#fbc02d",
+        "useFilePath": false
+      },
+      {
+        "rule": ".*",
+        "icon": "LiFolderDot",
+        "for": "folders",
+        "order": 8
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": true,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": false,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  }
+}

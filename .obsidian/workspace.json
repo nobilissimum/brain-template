@@ -1,34 +1,24 @@
 {
   "main": {
-    "id": "a91fd68a342f33c9",
+    "id": "e868cda5bab6f449",
     "type": "split",
     "children": [
       {
-        "id": "713f20c6b74ad193",
+        "id": "3ac237811fd047a1",
         "type": "tabs",
         "children": [
           {
-            "id": "a337bcd5259b8c4b",
+            "id": "5cabe90ff81c7931",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "New tab"
             }
-          }
-        ]
-      },
-      {
-        "id": "c8c315c46dafb1b7",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "382267fbc857ae69",
+            "id": "f28e309162e42705",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -37,21 +27,22 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "edbc7428fe2ef218",
+    "id": "c62a679d34993ca4",
     "type": "split",
     "children": [
       {
-        "id": "39a90824004764b1",
+        "id": "9184cb79d0fe4ba2",
         "type": "tabs",
         "children": [
           {
-            "id": "e69d526011b30919",
+            "id": "204bcf546bd1afcf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,7 +55,7 @@
             }
           },
           {
-            "id": "6b5f0c7fbcffe6ed",
+            "id": "8aff7f3488cb8423",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -81,7 +72,7 @@
             }
           },
           {
-            "id": "5ea177fa3956cc46",
+            "id": "7c0b3aa527ba53b5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,23 +85,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 346.5
   },
   "right": {
-    "id": "e76f7ea985786577",
+    "id": "e04e6262e481ae2f",
     "type": "split",
     "children": [
       {
-        "id": "d48e4408b839a720",
+        "id": "e5a1405e38bedf7c",
         "type": "tabs",
         "children": [
           {
-            "id": "bc965e5637b0e499",
+            "id": "94536d1fe6b44eac",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,25 +110,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "c1cd8525daaf1d96",
+            "id": "5e3309308aa9aba4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "6b5511fd89f63e9e",
+            "id": "370f403e1349579a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,18 +142,17 @@
             }
           },
           {
-            "id": "ead554bc4d93fa62",
+            "id": "428d586bcad38d49",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           }
         ]
@@ -176,6 +164,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -184,8 +173,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a337bcd5259b8c4b",
+  "active": "f28e309162e42705",
   "lastOpenFiles": [
-    "Welcome.md"
+    "_assets/README.md",
+    "README.md",
+    "Welcome.md",
+    "_assets"
   ]
 }
