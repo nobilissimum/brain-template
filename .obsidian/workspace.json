@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5cabe90ff81c7931",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "f28e309162e42705",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "_assets/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -31,8 +21,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,6 +157,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -180,9 +170,14 @@
   },
   "active": "f28e309162e42705",
   "lastOpenFiles": [
+    "_assets/attachment-20251225.png",
+    "Pasted image 20251225095946.png",
+    "Pasted image 20251225095515.png",
+    "Pasted image 20251225095510.png",
+    "_assets/New Text Document.txt",
+    "README.md",
     "README.md~",
     "4913",
-    "README.md",
     "_assets/README.md",
     "Welcome.md",
     "_assets"
