@@ -11,3 +11,4 @@ Community plugins:
 - [Paste image rename](https://github.com/reorx/obsidian-paste-image-rename)
 - [Style Settings](https://github.com/mgmeyers/obsidian-style-settings)
 - [SupSub](https://github.com/wjgoarxiv/obsidian-supsub)
+- [Tablite](https://github.com/laofahai/obsidian-tablite)
