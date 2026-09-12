@@ -60,22 +60,43 @@
       {
         "rule": "_assets",
         "icon": "LiFolderDot",
-        "for": "everything",
+        "for": "folders",
         "order": 7,
         "color": "#fbc02d"
+      },
+      {
+        "rule": "_data",
+        "icon": "LiFolderDot",
+        "for": "folders",
+        "order": 8,
+        "color": "#65a884"
       },
       {
         "rule": ".*",
         "icon": "LiFolderDot",
         "for": "folders",
-        "order": 8,
+        "order": 9,
         "color": "#42a5f5"
+      },
+      {
+        "rule": "_assets",
+        "icon": "LiFolderDot",
+        "for": "folders",
+        "order": 10,
+        "color": "#fbc02d"
+      },
+      {
+        "rule": "_data",
+        "icon": "LiFolderDot",
+        "for": "folders",
+        "order": 11,
+        "color": "#65a884"
       },
       {
         "rule": "md$",
         "icon": "FabMarkdown",
         "for": "everything",
-        "order": 9,
+        "order": 12,
         "color": "#42a5f5"
       }
     ],
