@@ -1,8 +1,11 @@
 {
-  "accentColor": "",
+  "interfaceFontFamily": "Manrope,Geist",
+  "textFontFamily": "Manrope,Geist",
+  "monospaceFontFamily": "Geist Mono,GeistMono Nerd Font",
+  "baseFontSize": 15,
+  "translucency": false,
   "cssTheme": "Minimal Edge",
-  "baseFontSizeAction": false,
-  "enabledCssSnippets": [
-    "Minimal Edge Fix"
-  ]
+  "enabledCssSnippets": [],
+  "accentColor": "#009688",
+  "baseFontSizeAction": false
 }
