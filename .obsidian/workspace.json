@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -147,6 +149,20 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "512fc46c3cacdb70",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ]
       }
@@ -157,6 +173,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "dashboard-navigator:Open dashboard navigator": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
@@ -164,12 +181,12 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "dashboard-navigator:Open dashboard navigator": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "f28e309162e42705",
+  "active": "204bcf546bd1afcf",
   "lastOpenFiles": [
+    "test-folder",
     "_assets/attachment-20251225.png",
     "Pasted image 20251225095946.png",
     "Pasted image 20251225095515.png",

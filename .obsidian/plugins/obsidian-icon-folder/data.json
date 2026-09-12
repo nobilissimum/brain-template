@@ -58,18 +58,25 @@
         "color": "#ef5350"
       },
       {
-        "rule": "_attachments|_assets",
-        "icon": "FasImages",
-        "for": "folders",
+        "rule": "_assets",
+        "icon": "LiFolderDot",
+        "for": "everything",
         "order": 7,
-        "color": "#fbc02d",
-        "useFilePath": false
+        "color": "#fbc02d"
       },
       {
         "rule": ".*",
         "icon": "LiFolderDot",
         "for": "folders",
-        "order": 8
+        "order": 8,
+        "color": "#42a5f5"
+      },
+      {
+        "rule": "md$",
+        "icon": "FabMarkdown",
+        "for": "everything",
+        "order": 9,
+        "color": "#42a5f5"
       }
     ],
     "extraMargin": {

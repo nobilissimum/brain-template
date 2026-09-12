@@ -2,14 +2,14 @@
   "table-editor-obsidian",
   "obsidian-emoji-toolbar",
   "obsidian-excalidraw-plugin",
-  "obsidian-icon-shortcodes",
-  "obsidian-icon-folder",
   "obsidian-kanban",
   "obsidian-linter",
   "obsidian-paste-image-rename",
-  "obsidian-style-settings",
   "supsub",
   "obsidian-plugin-toc",
   "obsidian-thumbnails",
-  "settings-search"
+  "dashboard-navigator",
+  "obsidian-icon-folder",
+  "obsidian-icon-shortcodes",
+  "obsidian-style-settings"
 ]
