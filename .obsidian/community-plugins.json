@@ -1,11 +1,15 @@
 [
-  "obsidian-paste-image-rename",
-  "settings-search",
+  "table-editor-obsidian",
   "obsidian-emoji-toolbar",
   "obsidian-excalidraw-plugin",
   "obsidian-icon-shortcodes",
   "obsidian-icon-folder",
+  "obsidian-kanban",
+  "obsidian-linter",
+  "obsidian-paste-image-rename",
   "obsidian-style-settings",
   "supsub",
-  "dashboard-navigator"
+  "obsidian-plugin-toc",
+  "obsidian-thumbnails",
+  "settings-search"
 ]

@@ -1,22 +1,30 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
-  "showArrow": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:\"README\"",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
   "textFadeMultiplier": 3,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.3415791533143874,
+  "nodeSizeMultiplier": 2.00994623655914,
+  "lineSizeMultiplier": 1.99859335038363,
+  "collapse-forces": false,
+  "centerStrength": 0.598962490023943,
+  "repelStrength": 20,
+  "linkStrength": 0.701117318435754,
+  "linkDistance": 30,
+  "scale": 0.11660890978250274,
   "close": false
 }

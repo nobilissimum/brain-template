@@ -1,8 +1,24 @@
 {
-  "promptDelete": false,
-  "showLineNumber": true,
-  "foldHeading": false,
-  "foldIndent": false,
+  "strictLineBreaks": false,
+  "showFrontmatter": true,
   "useTab": false,
-  "spellcheck": false
+  "showLineNumber": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "promptDelete": false,
+  "attachmentFolderPath": "_attachments",
+  "showUnsupportedFiles": false,
+  "spellcheck": false,
+  "focusNewTab": true,
+  "vimMode": false,
+  "autoPairBrackets": false,
+  "autoConvertHtml": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "foldHeading": false,
+  "foldIndent": false
 }

@@ -24,11 +24,8 @@
   "workspaces": false,
   "file-recovery": true,
   "publish": false,
-  "sync": true,
+  "sync": false,
   "canvas": true,
   "bookmarks": true,
-  "properties": true,
-  "webviewer": false,
-  "footnotes": false,
-  "bases": true
+  "properties": true
 }
